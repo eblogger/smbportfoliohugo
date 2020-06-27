@@ -2,7 +2,7 @@ baseURL = "https://sheikhmohammadbilal.netlify.app"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross | Hugo Portfolio Template"
+title = "SEO Expert Dubai"
 [[menu.main]]
 URL = "about"
 name = "About"
