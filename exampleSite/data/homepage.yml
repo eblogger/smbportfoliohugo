@@ -17,18 +17,21 @@ skill:
   enable: true
   title: Skills
   item:
-  - title: Web Design
-    progress: 90%
+  - title: On Page SEO
+    progress: 100%
     color: "#fdb157"
-  - title: Logo Design
-    progress: 60%
+  - title: Technical SEO
+    progress: 100%
     color: "#9473e6"
-  - title: After Effects
-    progress: 80%
+  - title: SEO Backlinking
+    progress: 99%
     color: "#bdecf6"
-  - title: Web App
-    progress: 70%
+  - title: Web Design
+    progress: 85%
     color: "#ffbcaa"
+  - title: JavaScript SEO
+    progress: 80%
+    color: "#FDAD00"
 experience:
   enable: true
   title: Experience
