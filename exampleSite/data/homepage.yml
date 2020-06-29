@@ -115,14 +115,12 @@ testimonial:
 clients_logo_slider:
   enable: true
   item:
-  - logo: ''
-    URL: ''
   - logo: images/clients-logo/SEO%20Client%20-%20%20Revton.png
-    URL: ''
+    URL: "#"
   - logo: images/clients-logo/SEO%20Client%20-%20%20bloomon.png
     URL: "#"
   - logo: images/clients-logo/SEO%20Client%20-%20Adidas%20UAE.png
-    URL: ''
+    URL: "#"
   - logo: images/clients-logo/SEO%20Client%20-%20Almosafer.png
     URL: "#"
   - logo: images/clients-logo/SEO%20Client%20-%20HostReview.png
