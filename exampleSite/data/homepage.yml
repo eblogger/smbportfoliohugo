@@ -91,30 +91,46 @@ testimonial:
   enable: true
   title: Testimonials
   item:
-  - name: Jesica Gomez
-    image: images/testimonial/client-1.png
-    designation: CEO, Funder
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit
-      esse cillum dolore eu fugiat nulla pariatur.
-  - name: Shirley Scot
-    image: images/testimonial/client-1.png
-    designation: CEO, Funder
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit
-      esse cillum dolore eu fugiat nulla pariatur.
-  - name: Jessica Julie
-    image: images/testimonial/client-1.png
-    designation: CEO, Funder
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit
-      esse cillum dolore eu fugiat nulla pariatur.
+  - name: Rafay Qureshi
+    image: images/testimonial/Rafay_Qureshi.svg
+    designation: Marketing Manager, Seera Group
+    content: With Bilal as OFF Site SEO Lead, we managed to rank the most competitive
+      industry keywords and turned our SEO strategy into a result-oriented strategy.
+      Bilal is someone I would definitely count on when it comes to the optimization
+      part of the most competitive industry keywords! Bilal can be fully trusted to
+      deliver on his tasks and raises alerts with solutions well in advance in anticipation
+      of issues. I recommend Bilal as a valuable addition to any digital marketing
+      team.
+  - name: Sandy Özdemir
+    image: images/testimonial/Sandy_195150zdemir.svg
+    designation: Marketing Director, tajawal
+    content: Bilal gets the job done, whatever it takes. He carries a great energetic
+      attitude at work which makes everyone around him glad to be working with him.
+      He is a goal-getter and has proven that within the tajawal SEO department. It
+      was great to have him in the team and I would recommend him for any digital
+      marketing team.
+  - name: Milena Alexova
+    image: images/testimonial/Milena-Alexova-Testimonials.svg
+    designation: SEO Manager, bloomon
+    content: Shaykh is a very ambitious and knowledgable man. It was a pleasure to
+      work with him for the short time we overlapped at bloomon. He has a lot of past
+      experience with a lot of different clients so that is a big plus for every company
+      that wants to hire him since he brings a lot of value. As a person, Shaykh is
+      very funny and open-minded, easy-going, and always up for a challenge. I recommend
+      you to consider Shaykh for your next hire if you want your company to succeed
+      with SEO and get it to the next level.
+  - name: Irfan Shafi
+    image: images/testimonial/Irfan_Shafi_Review_SEO.svg
+    designation: Head of Operations, Just White Hat
+    content: One of the best marketing agency. Very friendly working environment with
+      great management. Highly recommended for growing businesses.
+  - name: 39 Desserts
+    image: images/testimonial/39_Desserts_SEO.svg
+    designation: CEO, 39 Desserts
+    content: Sheikh gets the job done, whatever it takes. They carries a great energetic
+      attitude at work which makes everyone around them glad to be working with him.
+      They are a goal-getter and has proven that within the 39 desserts SEO Project.
+      It was great to have them managing our SEO, We would recommend them.
 clients_logo_slider:
   enable: true
   item:
