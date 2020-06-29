@@ -132,8 +132,6 @@ clients_logo_slider:
   - logo: images/clients-logo/SEO%20Client%20-%20Unilever.png
     URL: "#"
   - logo: images/clients-logo/SEO%20Client%20-%20bloomhemp.png
-    URL: http://examplesite.com
-  - logo: images/clients-logo/client-logo-5.png
     URL: "#"
 blog:
   enable: true
