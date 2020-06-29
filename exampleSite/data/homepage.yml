@@ -113,10 +113,12 @@ testimonial:
       consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit
       esse cillum dolore eu fugiat nulla pariatur.
 clients_logo_slider:
-  enable: false
+  enable: true
   item:
-  - logo: images/clients-logo/client-logo-1.png
-    URL: http://examplesite.com
+  - logo: ''
+    URL: ''
+  - logo: images/clients-logo/SEO%20Client%20-%20%20Revton.png
+    URL: ''
   - logo: images/clients-logo/client-logo-2.png
     URL: "#"
   - logo: images/clients-logo/client-logo-3.png
