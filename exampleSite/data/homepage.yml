@@ -117,8 +117,6 @@ clients_logo_slider:
   item:
   - logo: images/clients-logo/SEO%20Client%20-%20%20Revton.png
     URL: "#"
-  - logo: images/clients-logo/SEO%20Client%20-%20%20bloomon.png
-    URL: "#"
   - logo: images/clients-logo/SEO%20Client%20-%20Adidas%20UAE.png
     URL: "#"
   - logo: images/clients-logo/SEO%20Client%20-%20Almosafer.png
@@ -127,11 +125,13 @@ clients_logo_slider:
     URL: "#"
   - logo: images/clients-logo/SEO%20Client%20-%20Reebok.png
     URL: "#"
-  - logo: images/clients-logo/SEO%20Client%20-%20Sefamerve.png
-    URL: "#"
   - logo: images/clients-logo/SEO%20Client%20-%20Unilever.png
     URL: "#"
   - logo: images/clients-logo/SEO%20Client%20-%20bloomhemp.png
+    URL: "#"
+  - logo: images/clients-logo/SEO%20Client%20-%20Sefamerve.png
+    URL: "#"
+  - logo: images/clients-logo/SEO%20Client%20-%20%20bloomon.png
     URL: "#"
 blog:
   enable: true
